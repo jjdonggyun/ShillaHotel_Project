@@ -126,7 +126,7 @@
 
 | 초기화면 |
 |----------|
-|![splash](https://user-images.githubusercontent.com/112460466/210172920-aef402ed-5aef-4d4a-94b9-2b7147fd8389.gif)|
+|![Hotel Shilla Mokup](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/3960bfae-ea11-4a5f-9dd2-869d185eb2a2)|
 
 <br>
 
@@ -137,7 +137,7 @@
 
 | 회원가입 |
 |----------|
-|![join](https://user-images.githubusercontent.com/112460466/210173571-490f5beb-5791-4a4a-8c5e-510cdcb5f1fe.gif)|
+|![join](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/4f33dcbf-e923-4fcb-9d78-84be8acc126c)|
 
 <br>
 
@@ -148,7 +148,7 @@
 
 | 로그인 |
 |----------|
-|![login](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/3b4da942-c71a-48ff-9e9d-10a39edb85de)|
+|![login](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/f3adbcc9-8409-432d-b0e4-e03ada0f7238)|
 
 <br>
 
