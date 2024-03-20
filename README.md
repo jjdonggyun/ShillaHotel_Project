@@ -156,9 +156,6 @@
 - 상단에 활성화 된 로그아웃 버튼을 클릭하면 로그아웃이 됩니다.
 - 로그아웃시 로컬 저장소의 토큰 값과 사용자 정보를 삭제하고 초기화면으로 이동합니다.
 
-| 로그아웃 |
-|----------|
-|![logout](https://user-images.githubusercontent.com/112460466/210178009-11225733-7af5-4b8b-aa1c-fe264af01797.gif)|
 
 <br>
 
@@ -172,7 +169,8 @@
 
 | 게시글 작성 |
 |----------|
-|![uploadPost](https://user-images.githubusercontent.com/112460466/210381758-1de5a889-f587-41d2-b200-22c20a970519.gif)|
+|![게시글작성](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/1390ae0d-c5db-42d2-804e-950a9d8e4062)|
+
 
 <br>
 
@@ -182,7 +180,7 @@
 
 | 게시글 수정 & 삭제 |
 |----------|
-|![editDeletePost](https://user-images.githubusercontent.com/112460466/210382021-da057943-dc21-411e-a1f8-552be0e973bf.gif)|
+|![게시글수정삭제](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/d10ef05a-f5e8-486c-a6dc-ad851d49f62a)|
 
 <br>
 
