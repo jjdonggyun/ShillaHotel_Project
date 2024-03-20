@@ -104,6 +104,13 @@
 <br>
 
 ## 5. 테이블 설계
+| SHILLA_BOARD TABLE |
+|----------|
+|![table1](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/2004e49d-b590-4776-b2bb-44c7eaeca6d8)|
+
+| SHILLA_USER TABLE |
+|----------|
+|![table2](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/1add520e-2943-4f07-af87-c4a9d26ad0f4)|
 
 
 ## 6. 개발 기간
