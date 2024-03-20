@@ -148,7 +148,7 @@
 
 | 로그인 |
 |----------|
-|![login](https://user-images.githubusercontent.com/112460466/210177956-c716414e-01c2-4c1e-b1f7-6562b9b7a857.gif)|
+|![login](https://github.com/jjdonggyun/ShillaHotel_Project/assets/163277674/3b4da942-c71a-48ff-9e9d-10a39edb85de)|
 
 <br>
 
